@@ -1,6 +1,6 @@
 # SistemaGestionRH
 Sistema de gestion de recursos humanos
-##Frontend
+## Frontend
 React.js
-##Backend
+## Backend
 Django
